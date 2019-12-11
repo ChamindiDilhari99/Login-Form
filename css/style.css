@@ -1,0 +1,53 @@
+#div1{
+    width: 500px;
+    height: 600px;
+    background: darkgray;
+}
+#p1{
+    font-size: 40px;
+    position: absolute;
+    font-family: cursive;
+    left: 180px;
+    top: 0px;
+}
+#un{
+    position: absolute;
+    left: 80px;
+    top: 175px;
+}
+#userName{
+    position: absolute;
+    left: 200px;
+    top: 175px;
+}
+
+#pw{
+    position: absolute;
+    left: 80px;
+    top: 250px;
+}
+#Password{
+    position: absolute;
+    left: 200px;
+    top: 250px;
+}
+#lbl1{
+    position: absolute;
+    top: 340px;
+    left: 60px;
+    color: darkmagenta;
+}
+#LoginBtn{
+    position: absolute;
+    top: 400px;
+    left: 230px;
+    font-size: 25px;
+    color: midnightblue;
+
+}
+#p2{
+    position: absolute;
+    top: 500px;
+    left: 125px;
+    color: darkblue;
+}
